@@ -7,7 +7,7 @@ export default function posts() {
         {
             id: "1",
             username: "MohsenMotamedipour",
-            userImg:"https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg",
+            UserImg:"https://upload.wikimedia.org/wikipedia/commons/8/8c/Cristiano_Ronaldo_2018.jpg",
             img : "https://images.unsplash.com/photo-1668584044380-520997086ee0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80",
             caption: "Nice picture",       
         },
