@@ -1,6 +1,7 @@
 import Stories from "../components/Stories";
 import Posts from "../components/Posts";
 import MiniProfile from "../components/MiniProfile";
+import Suggestions from "../components/Suggestions";
 
 export default function Feed() {
   return  <main className="grid grid-cols-1 md:grid-cols-4 md:max-w-6xl mx-auto">
@@ -13,6 +14,8 @@ export default function Feed() {
             <div className="fixed w-[380px]">
                 {/* mini profile */}
                 <MiniProfile/>
+                {/* right side  Suggestions*/}
+                <Suggestions/>
 
             </div>
 
